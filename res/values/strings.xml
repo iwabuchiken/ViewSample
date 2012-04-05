@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ViewSampleActivity!</string>
+    <string name="app_name">ViewSample</string>
+
+    <string name="textviewsample1">ViewSample</string>
+    <string name="checkboxsample1">チェックボックス１</string>
+    <string name="checkboxsample2">チェックボックス２</string><string name="radiobuttonsample1">ラヂオボタン１</string>
+    <string name="radiobuttonsample2">ラヂオボタン２</string>
+    
+    <string-array name="list_name">
+        <item >あいうえお</item>
+        <item >ツイッター</item>
+        <item >オープンCV</item>
+    </string-array>
+    
+    <string name="spinnerprompt">スピナー</string>
+    <string name="buttonsample1">保存</string>
+    
+    
+    
+    
+</resources>

@@ -1,0 +1,9 @@
+.classpath
+.git
+.git/*
+.project
+bin
+bin/*
+proguard-project.txt
+project.properties
+*.png
